@@ -1,7 +1,7 @@
 ## Overview  
 This repository contains the code for the theory, experiments, and figures from the paper:  
 **"A Probabilistic Approach to Visualize the Effect of Missing Data on PCA in Ancient Human Genomics"**  
-*Journal XYZ, 2025*. DOI: [10.xxxx/xxxxxx](https://doi.org/10.xxxx/xxxxxx)  
+*Journal XYZ, 2025*. DOI: [10.1186/s12864-025-11728-1](https://doi.org/10.1186/s12864-025-11728-1)  
 
 ## Instructions  
 Follow these steps to set up and run the code:  
